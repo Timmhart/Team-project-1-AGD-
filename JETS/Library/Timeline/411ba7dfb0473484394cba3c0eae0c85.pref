@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d79cb9ecc0d4a6d428ab98a681a33897, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeAreaShownRange: {x: -0.24142605, y: 18.674305}
+  trackScale: 1
+  playRangeEnabled: 1
+  timeAreaPlayRange: {x: 0, y: 0.00016666666}
+  windowTime: 1.6666666269302368
+  verticalScroll: 0
+  sequencerHeaderWidth: 315
+  m_Keys: []
+  m_Vals: []
